@@ -1,0 +1,44 @@
+body {
+  background: url(images/background.jpeg) no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  height: auto;
+  width: auto;
+}
+
+.wrap {
+  width: 500px;
+  padding-top: 25px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+h1 {
+  display: inline-block;
+  color: orangered;
+}
+
+button {
+  padding:5px;
+  margin: 25px 10px;
+  border: 1px solid gray;
+  background-color: seashell;
+  opacity: 0.9;
+  color: orangered;
+}
+
+#size {
+  float: left;
+}
+
+#clear {
+  float: right;
+}
+
+.field {
+  height: 500px;
+  width: 500px;
+  border: 10px solid orangered;
+  margin: 10px auto;
+}
