@@ -36,6 +36,10 @@ button {
   float: right;
 }
 
+#toggle {
+  margin: 0;
+}
+
 .field {
   height: 500px;
   width: 500px;
